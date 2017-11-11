@@ -1,3 +1,5 @@
+//note this temp sensor and ph sensor is calibrated for our specfic
+//ds18b20 & ph sensors respectively
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <SPI.h>
